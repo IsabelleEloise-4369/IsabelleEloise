@@ -28,9 +28,10 @@ Sou apaixonada por desenvolvimento de software e design de interfaces. Atualment
 ### 🔗 Redes Sociais
 Aqui estão alguns links para minhas redes sociais:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/isabelle-eloise-rugno-ferreira-b9ba13264)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/seuinstagram](https://www.instagram.com/isabelle.eloise/profilecard/?igsh=MTA4b3B1Yjlvc2h1eQ==))
-[![Gmail](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](isarugno@gmail.com)<br>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelle-eloise-rugno-ferreira-b9ba13264)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isabelle.eloise)
+[![Gmail](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isarugno@gmail.com)
+
 
 ---
 
